@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@types/node": "^18.7.23",
-    "@venable/eslint-config": "^0.0.4",
+    "@xbmlz/eslint-config": "^0.1.15",
     "bumpp": "^8.2.1",
     "eslint": "^8.24.0",
     "esno": "^0.16.3",
